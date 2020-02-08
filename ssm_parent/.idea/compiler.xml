@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ssm_dao" target="1.5" />
+      <module name="ssm_model" target="1.5" />
+      <module name="ssm_parent" target="1.5" />
+      <module name="ssm_service" target="1.5" />
+      <module name="ssm_web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
